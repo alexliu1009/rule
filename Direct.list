@@ -15,6 +15,7 @@ IP-CIDR,219.146.1.66/32,no-resolve
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,speedtest.net
 
+#国内PT站
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-KEYWORD,m-team
 DOMAIN-SUFFIX,pthome.net
@@ -34,7 +35,17 @@ DOMAIN-SUFFIX,ptchdbits.co
 DOMAIN-SUFFIX,share.ilolicon.com
 DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,ptchina.org
+
+#国外PT站
 DOMAIN-SUFFIX,myanonamouse.net
+DOMAIN-SUFFIX,eiga.moi
+DOMAIN-SUFFIX,anthelion.me
+DOMAIN-SUFFIX,nebulance.io
+DOMAIN-SUFFIX,aither.cc
+DOMAIN-SUFFIX,empornium.sx
+DOMAIN-SUFFIX,orpheus.network
+DOMAIN-SUFFIX,redacted.ch
+DOMAIN-SUFFIX,blutopia.cc
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
