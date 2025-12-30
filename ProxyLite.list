@@ -12,6 +12,7 @@ IP-CIDR,103.115.43.2/32,no-resolve
 
 DOMAIN-SUFFIX,jinglongyu.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,greasyfork.org
