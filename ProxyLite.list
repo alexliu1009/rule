@@ -11,7 +11,7 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 
 DOMAIN-SUFFIX,jinglongyu.com
-DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,greasyfork.org
@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,kodi.tv
 DOMAIN-KEYWORD,tmdb
 DOMAIN-KEYWORD,themoviedb
+DOMAIN-SUFFIX,thetvdb.com
+
 # DOMAIN-SUFFIX,pixhost.to
 DOMAIN-SUFFIX,spk.imnks.com
 DOMAIN-SUFFIX,star-space.net
