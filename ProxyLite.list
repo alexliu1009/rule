@@ -34,8 +34,6 @@ DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,invites.fun
 DOMAIN-SUFFIX,v2rayssr.com
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-KEYWORD,m-team
 DOMAIN-SUFFIX,movie-pilot.org
 #插件依赖
 DOMAIN-SUFFIX,pypi.org
