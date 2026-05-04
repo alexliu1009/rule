@@ -16,6 +16,7 @@ IP-CIDR,219.146.1.66/32,no-resolve
 DOMAIN,cloud.oracle.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,arnopu.space
 
 
 #国内PT站
