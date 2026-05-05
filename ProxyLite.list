@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,movie-pilot.org
 #插件依赖
 DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,proton.me
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
