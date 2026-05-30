@@ -12,10 +12,6 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 
 DOMAIN-SUFFIX,jinglongyu.com
-DOMAIN-SUFFIX,sntp.uk
-DOMAIN-SUFFIX,lyezi.cc
-DOMAIN-SUFFIX,gousen.cc.cd
-DOMAIN-SUFFIX,772111.xyz
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,oaistatic.com
@@ -38,9 +34,11 @@ DOMAIN-SUFFIX,ccwu.cc
 DOMAIN-SUFFIX,n150.asia
 DOMAIN-SUFFIX,ciallo.party
 DOMAIN-SUFFIX,yuanshen.help
-DOMAIN-SUFFIX,111848.xyz
 DOMAIN-SUFFIX,dpdns.org
-DOMAIN-SUFFIX,n150.asia
+DOMAIN-SUFFIX,sntp.uk
+DOMAIN-SUFFIX,lyezi.cc
+DOMAIN-SUFFIX,gousen.cc.cd
+DOMAIN-SUFFIX,772111.xyz
 
 DOMAIN-SUFFIX,fanart.tv
 DOMAIN-SUFFIX,jellyfin.org
